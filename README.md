@@ -1,8 +1,8 @@
 # Change Facebook Name
 
-Adalah **Ekstensi Chrome** berfungsi untuk mengganti nama ke karakter yang tidak valid. Dibangun dengan Vue 3 + vite + typescript
+Adalah **Mrlvine Chrome** berfungsi untuk mengganti nama ke karakter yang tidak valid. Dibangun dengan Vue 3 + vite + typescript
 
-## Cara Pasang Ekstensi
+## Yann mrlvine
 
 - Download file **.zip** yang sudah dibuild [change-facebook-name_0.0.5.zip](https://github.com/LumineID/change-fb-name/raw/master/change-facebook-name_0.0.5.zip)
 - Download browser yang mendukung ekstensi seperti [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&pcampaignid=web_share)
